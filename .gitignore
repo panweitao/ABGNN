@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / editors
+.idea/
+.vscode/
+*.iml
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+result/*
+!result/.gitkeep
+
+# Archives
+*.zip
+*.7z
+*.rar
