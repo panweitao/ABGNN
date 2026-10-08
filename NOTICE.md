@@ -15,8 +15,8 @@ style.
 
 ## 2. Code
 
-The source code is provided for **academic, non-commercial research and reproduction**
-purposes. If you use it, please cite the paper:
+The source code is released under the [MIT License](LICENSE). If you use it, please cite the
+paper:
 
 > W. Pan, M. Dong, C. Wen, H. Liu, S. Zhang, B. Shi, Z. Di, Z. Qiu, Y. Gao, L. Zheng,
 > "A unioned graph neural network based hardware Trojan node detection,"

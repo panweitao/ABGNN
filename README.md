@@ -171,5 +171,8 @@ If you find this code useful, please cite:
 
 ## License
 
-The source code is released for academic, non-commercial research use.
-A formal license file is pending; the data follows the terms in [`NOTICE.md`](NOTICE.md).
+The **source code** in this repository is released under the [MIT License](LICENSE).
+
+Note that the MIT License covers the code only. The graph data under `ht/` is derived from
+the Trust-Hub benchmarks and remains subject to the terms described in [`NOTICE.md`](NOTICE.md);
+it is **not** covered by the MIT License.
